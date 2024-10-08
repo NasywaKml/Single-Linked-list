@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728391724 source:d:\semester 3\strukdat\tugas kelompok 1\tugas strukdat 1\main.cpp
+	<iostream>
+	"kedai.h"
+
+1728390998 source:d:\semester 3\strukdat\tugas kelompok 1\tugas strukdat 1\kedai.cpp
+	<iostream>
+	"kedai.h"
+
+1728390998 d:\semester 3\strukdat\tugas kelompok 1\tugas strukdat 1\kedai.h
+
